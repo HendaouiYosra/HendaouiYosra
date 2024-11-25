@@ -35,12 +35,12 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="sonarqube" width="40" height="40"/> </a> 
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a> 
-  <a href="https://github.com/aquasecurity/trivy" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" alt="trivy" width="40" height="40"/> </a> 
+
 
   <!-- Computer Vision Tools -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
-  <a href="https://github.com/tesseract-ocr" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Tesseract-OCR_Logo_2019.png" alt="tesseract" width="40" height="40"/> </a> 
+  
 </p>
