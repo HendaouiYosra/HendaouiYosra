@@ -66,19 +66,13 @@
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Grafana_logo.svg" alt="grafana" width="40" height="40"/>
-  </a>
+ 
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Helm_%28software%29_logo.svg" alt="helm" width="40" height="40"/>
-  </a>
+
   <a href="https://php.net/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
   </a>
