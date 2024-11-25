@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yosra Hendaoui</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 🎨I'm passionate about **UI/UX design**
 
