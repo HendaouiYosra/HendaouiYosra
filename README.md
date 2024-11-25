@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Yosra Hendaoui</h1>
+<h3 align="center">Software Engineering Student</h3>
+
+- 🌱 I’m currently learning **Computer Vision**
+
+- 🎨 I'm passionate about **UI/UX design**
+
+- 👩‍💻 I’m a **DevOps Engineer** and **Full Stack Developer**
+
+- 📫 How to reach me **yosrahindaoui@issatso.u-sousse.tn**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Programming Languages -->
@@ -79,4 +90,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/>
   </a>
+</p>
+
 </p>
