@@ -34,28 +34,28 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
 <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="helm" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="helm" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
